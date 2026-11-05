@@ -1,0 +1,8 @@
+phishing.testcategory.com
+malware.testcategory.com
+neverssl.com
+duckduckgo.com
+archive.org
+opensource.org
+ietf.org
+isc.org

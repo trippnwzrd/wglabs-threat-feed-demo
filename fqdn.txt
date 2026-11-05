@@ -6,4 +6,3 @@ archive.org
 opensource.org
 ietf.org
 isc.org
-cisco.com
